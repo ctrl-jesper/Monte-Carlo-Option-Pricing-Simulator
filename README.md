@@ -25,7 +25,7 @@ Educational option pricing engine implementing Monte Carlo simulation with antit
 ## Installation
 
 ```bash
-git clone https://github.com/jespermathiasnielsen/Monte-Carlo-Option-Pricing-Simulator.git
+git clone https://github.com/ctrl-jesper/Monte-Carlo-Option-Pricing-Simulator.git
 cd Monte-Carlo-Option-Pricing-Simulator
 pip install -r requirements.txt
 ```
